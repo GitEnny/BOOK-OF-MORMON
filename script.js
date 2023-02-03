@@ -32,6 +32,6 @@ let date = new Date()
 console.log(date)
 
 let lastUpdate = document.lastModified;
-document.querySelector('.update').innerHTML = `Last Updated ${lastUpdate} <br> ©️ ${date.getFullYear()} Ronald Coello`
+document.querySelector('.update').innerHTML = `Last Updated ${lastUpdate} <br> ©️ ${date.getFullYear()} Eniola Ogundele`
 
 
